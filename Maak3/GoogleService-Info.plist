@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>617865654049-ehrf9idujpn6osjdk0fnorqou8nleq1r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.617865654049-ehrf9idujpn6osjdk0fnorqou8nleq1r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHFqGIg8cUjRUysKdRKAPYeDBU5oRCf4E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>617865654049</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>KSU.Maak3</string>
+	<key>PROJECT_ID</key>
+	<string>maak-c2c35</string>
+	<key>STORAGE_BUCKET</key>
+	<string>maak-c2c35.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:617865654049:ios:b4aefdd6fdf2d1dd235860</string>
+	<key>DATABASE_URL</key>
+	<string>https://maak-c2c35-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
